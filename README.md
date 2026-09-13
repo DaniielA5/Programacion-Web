@@ -7,12 +7,12 @@ Elaborado por Juarez Ramirez Daniel Alexis
 
 ## Contenido
 
-- Ejercicio 1: 
-- Ejercicio 2: 
-- Ejercicio 3: 
-- Ejercicio 4: 
-- Ejercicio 5: 
-- Ejercicio 6: 
+- Ejercicio 1: Cree una pagina HTML con el clasico Hola Mundo!.
+- Ejercicio 2: Utilice formatos basicos  : <p>, <strong>, <em>, <br>.
+- Ejercicio 3: Cree enlaces , utilizando estos tres  tipos:  <a href="url"> ,  target="_blank" , target="_self". 
+- Ejercicio 4: Utilice el img para insertar imagenes basicas: <img> , alt, width.
+- Ejercicio 5: Aqui ya combinamos el texto con los enlaces, <img> dentro de <p> ..
+- Ejercicio 6: utilice <header>, <section>, <footer>.
 
 ## Tecnologías
 HTML5
