@@ -8,11 +8,15 @@ Elaborado por Juarez Ramirez Daniel Alexis
 ## Contenido
 
 - Ejercicio 1: Cree una pagina HTML con el clasico Hola Mundo!.
-- Ejercicio 2: Utilice formatos basicos  : <p>, <strong>, <em>, <br>.
-- Ejercicio 3: Cree enlaces , utilizando estos tres  tipos:  <a href="url"> ,  target="_blank" , target="_self". 
-- Ejercicio 4: Utilice el img para insertar imagenes basicas: <img> , alt, width.
-- Ejercicio 5: Aqui ya combinamos el texto con los enlaces, <img> dentro de <p> ..
+- Ejercicio 2: Utilice formatos basicos: <p>, <strong>, <em>, <br>.
+- Ejercicio 3: Cree enlaces utilizando estos tres tipos: <a href="url"> ,  target="_blank" , target="_self". 
+- Ejercicio 4: Utilice el img para insertar imagenes basicas: <img> , alt, width
+- Ejercicio 5: Aqui ya combinamos el texto con los enlaces, <img> dentro de <p>
 - Ejercicio 6: utilice <header>, <section>, <footer>.
+- Ejercicio 7: listas Anmidadas + enlaces <ul> <ol>
+- Ejercicio 8: Estructurasde tablas <thead> <tbody>
+- Ejercicio 9: Formulario aplciando : HTML, CSS ...
+- Ejercicio 10: Calculadora Celsius
 
 ## Tecnologías
 HTML5
