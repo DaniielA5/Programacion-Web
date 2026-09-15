@@ -10,6 +10,12 @@ function convertir() {
         return; 
     }
 
+    var gradNum = parseFloat(grad1);
+
+    if (gradNum < 0 ) {
+        alert("El numero ingresado es negativo.");
+        return;
+    }
     var resultado =((parseFloat(grad1) * 9/5 ) + 32);
 
     document.getElementById("resultado").value = resultado.toFixed(2);
